@@ -29,29 +29,6 @@ Currently, I’m exploring **AI and LLM use cases** for productivity, automation
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📌 Projects & Work
-
-### 🔹 Customer Experience Platform – Mahindra & Mahindra Ltd. _(Intern)_
-- Contributing to the development of an enterprise-wide service platform by collaborating with cloud engineers, data scientists, and senior leadership.
-- Worked on backend development, architecture planning, and data visualization to support strategic business insights.
-
-### 🔹 Project Allocation System – Software Development Centre, MUJ _(Intern)_
-- Led the design and deployment of a platform for 1000+ students and faculty to manage minor project mentorship.
-- Implemented secure access control and a structured workflow that reduced manual effort by 40%.
-
-### 🔹 Web Application – Anoveda Healthcare Pvt. Ltd. _(Freelance)_
-- Designed the company’s landing page, optimized for performance and responsiveness across 95%+ of devices.
-- Delivered features aligned with marketing goals and user experience standards.
-
----
-
-## 🧠 Academic & Leadership Experience
-
-- 📚 **Relevant Coursework:** Data Structures, Algorithms, Networking, OS, Cybersecurity, OOP, SDLC, Testing, Web Dev  
-- 🏢 **Internships:** Mahindra & Mahindra Ltd., Anoveda Healthcare, SDC (Software Development Centre)  
-- 🧑‍💼 **Leadership Roles:**  
-  - **Student Director, SDC MUJ:** Leading 100+ developers, managing tech teams, project delivery, and stakeholder coordination.  
----
 
 ## 🌱 Currently Exploring
 
