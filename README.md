@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Preet Kulkarni
 
-<!--
-**preetkulkarni/preetkulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Fourth-year Computer Science student | 💻 Software Development | 🛡️ Cybersecurity | 🌐 Exploring AI & LLM Applications
 
-Here are some ideas to get you started:
+---
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXEwNHNlYnZnbmdnb3BpMHByaWlmYTg0azlsc2ZlcHE3M2prd2k1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="coder at work">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I’m a third-year Computer Science undergraduate at Manipal University Jaipur, with a strong foundation in **software development, networking, and system security architecture**. I’m passionate about building **scalable, secure systems** that solve real-world problems and streamline digital workflows.
+
+As the **Student Director at the Software Development Centre (SDC)** — the university’s in-house tech initiative — I lead a 100+ member team of developers, managing real-time projects, collaborating with faculty stakeholders, and driving engineering best practices across the board.
+
+Currently, I’m exploring **AI and LLM use cases** for productivity, automation, and knowledge systems. I’m actively learning **LangChain**, **LangGraph**, and related tools to better understand **multi-agent systems**, **retrieval-augmented generation (RAG)** pipelines, and practical AI app deployment.
+
+---
+
+## 🔧 Technical Skills
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## 📌 Projects & Work
+
+### 🔹 Customer Experience Platform – Mahindra & Mahindra Ltd. _(Intern)_
+- Contributing to the development of an enterprise-wide service platform by collaborating with cloud engineers, data scientists, and senior leadership.
+- Worked on backend development, architecture planning, and data visualization to support strategic business insights.
+
+### 🔹 Project Allocation System – Software Development Centre, MUJ _(Intern)_
+- Led the design and deployment of a platform for 1000+ students and faculty to manage minor project mentorship.
+- Implemented secure access control and a structured workflow that reduced manual effort by 40%.
+
+### 🔹 Web Application – Anoveda Healthcare Pvt. Ltd. _(Freelance)_
+- Designed the company’s landing page, optimized for performance and responsiveness across 95%+ of devices.
+- Delivered features aligned with marketing goals and user experience standards.
+
+---
+
+## 🧠 Academic & Leadership Experience
+
+- 📚 **Relevant Coursework:** Data Structures, Algorithms, Networking, OS, Cybersecurity, OOP, SDLC, Testing, Web Dev  
+- 🏢 **Internships:** Mahindra & Mahindra Ltd., Anoveda Healthcare, SDC (Software Development Centre)  
+- 🧑‍💼 **Leadership Roles:**  
+  - **Student Director, SDC MUJ:** Leading 100+ developers, managing tech teams, project delivery, and stakeholder coordination.  
+---
+
+## 🌱 Currently Exploring
+
+- Practical use cases of **LLMs in automation, education, and productivity**  
+- Frameworks like **LangChain, LangGraph**, and secure AI application design  
+- Applying **cybersecurity best practices** in the AI dev pipeline  
+- Contributing to **open-source** AI projects and tools
+
+---
+
+## 📫 Let’s Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/preet-kulkarni-2453ab284/)  
+- 🌐 [Portfolio](https://preetkulkarni.github.io/) 
+
+---
+
+> “My ultimate goal is to leverage my technical expertise, leadership capabilities, and creativity to contribute to impactful projects that make a difference.”
